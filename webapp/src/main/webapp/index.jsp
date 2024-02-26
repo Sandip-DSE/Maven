@@ -6,7 +6,7 @@
  <div class="container" align="center">
   <h1> Master program On DevOps with AWS CLoud</h1>
  </div>
- <div class="container">
+ <div class="container" align="center">
     <label for="uname"><b>Username:    </b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 <br></br>
